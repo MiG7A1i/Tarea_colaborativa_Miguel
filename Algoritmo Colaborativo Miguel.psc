@@ -2,7 +2,7 @@ Funcion resto<-calculo_resto(num)
 	resto<-num%23
 Fin Funcion
 Algoritmo Tarea_DNI
-	Dimension letra_dni[22]//esto es un array y se inicia por dimension, un array siempre arriba
+	Dimension letra_dni[22]
 	letra_dni[1]="R"
 	letra_dni[2]="W"
 	letra_dni[3]="A"
