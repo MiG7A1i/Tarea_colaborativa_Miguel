@@ -2,7 +2,7 @@ Funcion resto<-calculo_resto(num)
 	resto<-num%23
 Fin Funcion
 Algoritmo Tarea_DNI
-	Dimension letra_dni[22]
+	Dimension letra_dni[22]//modificado por nihal con cmd
 	letra_dni[1]="R"
 	letra_dni[2]="W"
 	letra_dni[3]="A"
